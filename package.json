@@ -1,0 +1,13 @@
+{
+  "name": "wxr_to_json",
+  "version": "1.0.0",
+  "description": "Convert Wordpress Extended RSS (WXR) to JSON.",
+  "main": "wxr_to_json.js",
+  "author": "Tom Armitage <tom@infovore.org>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.map": "^4.6.0",
+    "minimist": "^1.2.0",
+    "xml2js": "^0.4.19"
+  }
+}
